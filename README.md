@@ -3,6 +3,6 @@
 The Data can be found at [Kaggle](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo)
 
 
-![Header](image/boo.gif)
+![Center](image/boo.gif)
 
 ![Header](image/cloud.png)
